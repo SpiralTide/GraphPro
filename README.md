@@ -6,5 +6,5 @@ This repository contains code to reproduce the experiment of the paper "GraphPro
 https://ieeexplore.ieee.org/document/9945259
 
 
-## Traning Model
+## Training Model
 Type `python Train.py` to start traing based on data from a small pilot study area.
